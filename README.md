@@ -34,6 +34,11 @@ This repository contains a macOS Minesweeper clone written in SwiftUI. It is a *
 - The window resizes to fit the full grid for the selected difficulty
 - New Game recreates the board using the current difficulty
 
+## Screenshots
+
+![Main screen](Docs/screenshot-1.png)
+![Game in progress](Docs/screenshot-2.png)
+
 ## Build & Test
 
 From the project root:
